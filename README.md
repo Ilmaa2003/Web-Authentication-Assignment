@@ -10,7 +10,7 @@ A simple Node.js + Express project implementing **user authentication** with pas
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AmjadAzward/node-auth-assignment.git
+git clone https://github.com/Ilmaa2003/Web-Authentication-Assignment.git
 cd node-auth-assignment
 ```
 
